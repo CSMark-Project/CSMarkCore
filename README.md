@@ -1,1 +1,1 @@
-# CSMarkCLI
+# CSMarkCore
